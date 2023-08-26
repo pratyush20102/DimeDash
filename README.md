@@ -52,7 +52,7 @@ Additionally, balancing several concurrent tasks demanded adept time management.
 
 ### Access via Hosted Website
 
-DimeDash Website Link: [https://dime-dash.vercel.app/]([https://dime-dash.vercel.app/])
+DimeDash Website Link: https://dime-dash.vercel.app/
 
 ### Access via Local Host
 
