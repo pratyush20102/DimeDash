@@ -13,6 +13,23 @@ During our project, we faced significant hurdles integrating Firestore and Fireb
 
 Additionally, balancing several concurrent tasks demanded adept time management. We adopted agile frameworks, segmenting tasks and setting feasible deadlines. Despite the challenges, we viewed the project as a valuable learning experience. Our resilience and adaptability were key in navigating these obstacles.
 
+## Getting Started
+
+### Access via Hosted Website
+
+DimeDash Website Link: https://dime-dash.vercel.app/
+
+### Access via Local Host
+
+Clone the repository and make sure that `node.js` is installed in the system. Navigate to the project directory and run the following commands sequentially:
+
+#### `npm install`
+
+This command is used to install packages and dependencies for your project from the npm registry. It adds the specified packages to your project's node_modules directory and updates the package.json file.
+#### `npm start`
+
+This command initiates the application in development mode. It automatically opens the application in your default web browser at http://localhost:3000, allowing you to view and interact with it as you work on your project.
+
 ## Snapshots
 
 ### Home Page in Light Mode
@@ -46,26 +63,6 @@ Additionally, balancing several concurrent tasks demanded adept time management.
 ### Sale History along with Relevant Details
 
 ![Main Image Alt Text](snapshots/sale_list.jpg)
-
-
-## Getting Started
-
-### Access via Hosted Website
-
-DimeDash Website Link: https://dime-dash.vercel.app/
-
-### Access via Local Host
-
-Clone the repository and make sure that `node.js` is installed in the system. Navigate to the project directory and run the following commands sequentially:
-
-#### `npm install`
-
-This command is used to install packages and dependencies for your project from the npm registry. It adds the specified packages to your project's node_modules directory and updates the package.json file to include these dependencies.
-
-#### `npm start`
-
-This command initiates the application in development mode. It automatically opens the application in your default web browser at http://localhost:3000, allowing you to view and interact with it as you work on your project.
-
 
 
 
