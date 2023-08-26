@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# DimeDash
+## Redefining Finance, One Dime at a Time
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+DimeDash emerges as a transformative accounting web application, engineered to optimize business financial operations. With a robust set of features and an intuitive user interface, it simplifies complex accounting realms, making tasks more streamlined and efficient.
 
-## Available Scripts
+At the heart of its capabilities is a revolutionized approach to inventory management. DimeDash dispenses with tedious manual entries and exhaustive stock checks. Input is effortless, and its real-time tracking maintains accuracy, facilitating strategic stock decisions. Beyond inventory, DimeDash offers a lens into sales performance, illuminating trends and peak periods. These insights are pivotal for informed business strategies and operational efficiency.
 
-In the project directory, you can run:
+Moreover, the platform simplifies billing, ensuring precision and minimizing errors. But DimeDash is more than just a tool—it's a strategic partner. Its analytics provide a deep dive into key performance indicators, highlighting bestsellers and customer behaviors. As businesses harness these insights, they're not just functioning but thriving, positioning DimeDash as an indispensable asset in the modern financial management ecosystem.
 
-### `npm start`
+## Challenges
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+During our project, we faced significant hurdles integrating Firestore and Firebase due to their intricate architectures. As novice web developers, understanding these systems was demanding. Moreover, remote collaboration, with team members dispersed across locations, posed communication challenges. Delays and miscommunications occasionally hampered our progress. To counter this, we initiated regular video chats and prioritized clear communication, ensuring better teamwork and efficiency.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Additionally, balancing several concurrent tasks demanded adept time management. We adopted agile frameworks, segmenting tasks and setting feasible deadlines. Despite the challenges, we viewed the project as a valuable learning experience. Our resilience and adaptability were key in navigating these obstacles.
 
-### `npm test`
+## Snapshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Home Page in Light Mode
 
-### `npm run build`
+![Main Image Alt Text](snapshots/home.jpg) 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Home Page in Dark Mode
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Main Image Alt Text](snapshots/home_dark.jpg)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Dashboard for Visualization of Sales and Purchase History
 
-### `npm run eject`
+![Main Image Alt Text](snapshots/dashboard.jpg)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Details required for Purchase Entry
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Main Image Alt Text](snapshots/purchase_entry.jpg)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Details being stored in Firestore Database
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Main Image Alt Text](snapshots/database.jpg)
 
-## Learn More
+### Purchase History along with Relevant Details
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Main Image Alt Text](snapshots/purchase_list.jpg)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Details required for Sale Entry
 
-### Code Splitting
+![Main Image Alt Text](snapshots/sale_entry.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Sale History along with Relevant Details
 
-### Analyzing the Bundle Size
+![Main Image Alt Text](snapshots/sale_list.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Access via Hosted Website
 
-### Advanced Configuration
+DimeDash Website Link: [https://dime-dash.vercel.app/]([https://dime-dash.vercel.app/])
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Access via Local Host
 
-### Deployment
+Clone the repository and make sure that `node.js` is installed in the system. Navigate to the project directory and run the following commands sequentially:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+#### `npm install`
 
-### `npm run build` fails to minify
+This command is used to install packages and dependencies for your project from the npm registry. It adds the specified packages to your project's node_modules directory and updates the package.json file to include these dependencies.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### `npm start`
+
+This command initiates the application in development mode. It automatically opens the application in your default web browser at http://localhost:3000, allowing you to view and interact with it as you work on your project.
+
+
+
+
