@@ -23,10 +23,14 @@ DimeDash Website Link: https://dime-dash.vercel.app/
 
 Clone the repository and make sure that `node.js` is installed in the system. In the project directory, you can run:
 
-#### `npm install`
+```
+npm install
+```
 
 This command is used to install packages and dependencies for your project from the npm registry. It adds the specified packages to your project's node_modules directory and updates the package.json file.
-#### `npm start`
+```
+npm start
+```
 
 This command initiates the application in development mode. It automatically opens the application in your default web browser at http://localhost:3000, allowing you to view and interact with it as you work on your project.
 
