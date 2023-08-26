@@ -9,7 +9,7 @@ Moreover, the platform simplifies billing, ensuring precision and minimizing err
 
 ## Challenges
 
-During our project, we faced significant hurdles integrating Firestore and Firebase due to their intricate architectures. As novice web developers, understanding these systems was demanding. Moreover, remote collaboration, with team members dispersed across locations, posed communication challenges. Delays and miscommunications occasionally hampered our progress. To counter this, we initiated regular video chats and prioritized clear communication, ensuring better teamwork and efficiency.
+During our project, we faced significant hurdles integrating Firestore and Firebase due to their intricate architectures. As novice web developers, understanding these systems was demanding. Moreover, remote collaboration, with team members dispersed across locations, posed communication challenges. Delays and miscommunications occasionally hampered our progress. To counter this, we initiated regular video chats and prioritized clear communication.
 
 Additionally, balancing several concurrent tasks demanded adept time management. We adopted agile frameworks, segmenting tasks and setting feasible deadlines. Despite the challenges, we viewed the project as a valuable learning experience. Our resilience and adaptability were key in navigating these obstacles.
 
