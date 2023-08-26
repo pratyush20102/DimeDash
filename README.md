@@ -21,7 +21,7 @@ DimeDash Website Link: https://dime-dash.vercel.app/
 
 ### Access via Local Host
 
-Clone the repository and make sure that `node.js` is installed in the system. Navigate to the project directory and run the following commands sequentially:
+Clone the repository and make sure that `node.js` is installed in the system. In the project directory, you can run:
 
 #### `npm install`
 
